@@ -1,0 +1,16 @@
+body{
+  padding: 0;
+  margin: 0;
+}
+
+.card_container{
+  display: flex;
+  column-gap: 10px;
+  row-gap: 10px
+  ;
+}
+
+.round_graphs{
+  display: flex;
+  column-gap: 10px;
+}
